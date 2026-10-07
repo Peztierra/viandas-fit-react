@@ -58,10 +58,10 @@ http://localhost:5173/
 
 ## Estructura del proyecto
 
+```text
 src/
 ├── assets/
 │   └── img/
-│
 ├── components/
 │   ├── Navbar.jsx
 │   ├── Layout.jsx
@@ -73,18 +73,15 @@ src/
 │   ├── Testimonials.jsx
 │   ├── Contact.jsx
 │   └── Footer.jsx
-│
 ├── pages/
 │   ├── Home.jsx
 │   └── ContactPage.jsx
-│
 ├── styles/
 │   └── styles.css
-│
 ├── App.jsx
 ├── main.jsx
 └── index.css
-
+```
 ## Rutas
 
 Ruta
