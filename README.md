@@ -88,29 +88,19 @@ Ruta
 
 Descripción
 
-/
+/    Página principal
 
-Página principal
+/contacto   Página de contacto
 
-/contacto
+Secciones de la página principal:
 
-Página de contacto
-
-Secciones de la página principal
-
-Navbar
-
-Hero
-
-Nuestras viandas
-
-Beneficios
-
-Galería
-
-Testimonios
-
-Footer
+-Navbar
+-Hero
+-Nuestras viandas
+B-eneficios
+-Galería
+-Testimonios
+-Footer
 
 ## Funcionalidades
 
